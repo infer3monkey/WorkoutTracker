@@ -8,7 +8,7 @@ When opening the application you are greeted by a enter screen which you only se
 
 Then you are led to the main screen where you can go see your workouts, go to a one rep max calculator, or go into settings
 
-<img src="https://cdn.discordapp.com/attachments/655213466214203392/1304897619813732423/Screenshot_2024-11-09_at_11.57.04_AM.png?ex=6731101c&is=672fbe9c&hm=feeb5c89ed19683d62964afef28e9edc75cc1058f3c19766ca06faa7f59bc0c6&" width="100" height="200">
+<img src="https://ibb.co/DDMcY5s" width="100" height="200">
 
 <img src="https://cdn.discordapp.com/attachments/655213466214203392/1304898711192604752/Screenshot_2024-11-09_at_11.59.34_AM.png?ex=67311120&is=672fbfa0&hm=f79a4460d440ea68c5fc70c1858a26a09f34f300c88c39be3a47010df4b6e5e4&" width="100" height="200">
 
